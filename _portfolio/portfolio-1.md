@@ -1,6 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+name: <a href='https://sites.google.com/site/biplavsrivastava'>Dr. Biplav Srivastava</a>
+excerpt: "Core Faculty, AI Institute & Professor, CSE </br>Research Areas :</br>
+Artificial Intelligence, Services,</br>
+Smarter Cities ( Water, Health, Traffic ).<br/><img src='/images/Biplav (1).jpg'>"
 collection: portfolio
 ---
 
