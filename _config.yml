@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "ai4society"
-  avatar           : "/images/ai.png"
+  avatar           : "ai.png"
   bio              : "about ai4society"
   location         : "1112 Greene St, Columbia, SC 29208"
   employer         :
