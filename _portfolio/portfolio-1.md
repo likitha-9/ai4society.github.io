@@ -1,8 +1,8 @@
 ---
-name: <a href='https://sites.google.com/site/biplavsrivastava'>Dr. Biplav Srivastava</a>
-excerpt: "Core Faculty, AI Institute & Professor, CSE </br>Research Areas :</br>
-Artificial Intelligence, Services,</br>
-Smarter Cities ( Water, Health, Traffic ).<br/><img src='/images/Biplav (1).jpg'>"
+title: <a href='https://sites.google.com/site/biplavsrivastava'>Dr. Biplav Srivastava</a>
+excerpt: "Core Faculty, AI Institute & Professor, CSE <br/>Research Areas :<br/>
+Artificial Intelligence, Services,<br/>
+Smarter Cities ( Water, Health, Traffic ).<br/><img src='/images/Biplav (1).jpg' width="150px" style="float:left; margin:0px 10px 0px 0px;">
 collection: portfolio
 ---
 
