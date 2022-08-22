@@ -1,16 +1,21 @@
 # main links links
 main:
+
+  - title: "Members"
+    url: /Members/
+
+  - title: "Projects "
+    url: /Projects/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Funding"
+    url: /Funding/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Demos"
+    url: /Demos/
+ 
+  - title: "Repositories"
+    url: /Repositories/    
+
