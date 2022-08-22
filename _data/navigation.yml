@@ -2,7 +2,7 @@
 main:
 
   - title: "Members"
-    url: /Members/
+    url: /members/
 
   - title: "Projects "
     url: /Projects/
