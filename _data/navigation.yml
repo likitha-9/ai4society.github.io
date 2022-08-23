@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "members"
-    url: /members/
+  - title: "Members"
+    url: /Members/
 
   - title: "Projects "
     url: /Projects/
