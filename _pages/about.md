@@ -12,7 +12,7 @@ AI for Society (AI4S) group at the [AI Institute] is focused on enabling people 
 
 
 
-<span style="color:red">**News**</span>
+News
 ======
 
 
