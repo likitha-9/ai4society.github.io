@@ -15,25 +15,27 @@ AI for Society (AI4S) group at the [AI Institute] is focused on enabling people 
 News
 ======
 
-Students
-  Vishal completed his internship at IBM Res. [Aug 2022]
-  Kausik Lakkaraju presented at student forum at AIES
 
-Publications
-  Making Human-Like Moral Decisions
-  <Link to pdf> <Link to demo><Link to presentation>
-  https://sites.google.com/site/biplavsrivastava/papers 
 
-Funding: 
-  Cisco Research (gift), 
-  SCRA (award), 
-  Tantiv4 (award)
+Markup : * Students
+              * Vishal completed his internship at IBM Res. [Aug 2022]
+              * Kausik Lakkaraju presented at student forum at AIES
+                  * Sub-nested bullet etc
+          * Publications
+              * Making Human-Like Moral Decisions
+                  * <Link to pdf> <Link to demo><Link to presentation>
+              * https://sites.google.com/site/biplavsrivastava/papers 
+          * Funding: 
+              * Cisco Research (gift)
+              * SCRA (award)
+              * Tantiv4 (award)
+          * Teaching:
+              * CSEC-771 [Computer Processing of Natural Languages in Fall 2022]
+          * Others
+              * VAJRA visit to IIT-Roorkee
 
-Teaching: 
-  CSEC-771 [Computer Processing of Natural Languages in Fall 2022]
-  
-Others
-  VAJRA visit to IIT-Roorkee
+
+
 
 
 
