@@ -9,10 +9,10 @@ gender and race). This line of work aims to examine and, if possible, mitigate t
 bias in AI systems by establishing causal relationships. Based on this, we would 
 assign a rating to the AI system, which helps the user make an informed selection 
 when choosing different systems for their application."  
-Relevant_Papers: Kausik Lakkaraju. 2022. Why is my System Biased?:- Rating of AI Systems through a 
-Causal Lens. In Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and 
-Society (AIES '22). Association for Computing Machinery, New York, NY, USA, 902. 
-https://doi.org/10.1145/3514094.3539556
+#Relevant_Papers: Kausik Lakkaraju. 2022. Why is my System Biased?:- Rating of AI Systems through a 
+#Causal Lens. In Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and 
+#Society (AIES '22). Association for Computing Machinery, New York, NY, USA, 902. 
+#https://doi.org/10.1145/3514094.3539556
 ---
 
 
