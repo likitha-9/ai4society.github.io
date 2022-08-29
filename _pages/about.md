@@ -22,7 +22,7 @@ News
     * Kausik Lakkaraju presented at student forum at AIES
  * <span style="color:blue">**Publications**</span>
     * Making Human-Like Moral Decisions   
-      * [Link to pdf](https://dl.acm.org/doi/pdf/10.1145/3514094.3534174) [Link to demo](https://dl.acm.org/doi/pdf/10.1145/3514094.3534174) [Link to presentation](https://dl.acm.org/doi/pdf/10.1145/3514094.3534174)
+      * [Link to pdf](https://dl.acm.org/doi/pdf/10.1145/3514094.3534174) [Link to Video](https://drive.google.com/file/d/1JpVwVMHMKHDybXwjbkRChGxgW7vQOH5_/view?usp=sharing) [Link to presentation](https://drive.google.com/file/d/1pv_i5xlj6XYnqByMZxgsu-axMkwZsixs/view?usp=sharing)
     * https://sites.google.com/site/biplavsrivastava/papers 
  * <span style="color:blue">**Funding:**</span>
     * Cisco Research (gift)
