@@ -12,12 +12,12 @@ AI for Society (AI4S) group at the [AI Institute] is focused on enabling people 
 
 
 
-News
+<span style="color:red">some **News** text</span>
 ======
 
 
 
- * **Students**
+ * <span style="color:blue">some **Students** text</span>
     * Vishal completed his internship at IBM Res. [Aug 2022]
     * Kausik Lakkaraju presented at student forum at AIES
  * **Publications**
