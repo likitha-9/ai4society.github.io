@@ -17,21 +17,20 @@ News
 
 
 
- * Students
+ * **Students**
     * Vishal completed his internship at IBM Res. [Aug 2022]
     * Kausik Lakkaraju presented at student forum at AIES
-        * Sub-nested bullet etc
- * Publications
+ * **Publications**
     * Making Human-Like Moral Decisions
         * <Link to pdf> <Link to demo><Link to presentation>
     * https://sites.google.com/site/biplavsrivastava/papers 
- * Funding: 
+ * **Funding:** 
     * Cisco Research (gift)
     * SCRA (award)
     * Tantiv4 (award)
- * Teaching:
+ * **Teaching:**
     * CSEC-771 [Computer Processing of Natural Languages in Fall 2022]
- * Others
+ * **Others**
     * VAJRA visit to IIT-Roorkee
 
 
