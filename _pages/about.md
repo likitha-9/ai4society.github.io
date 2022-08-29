@@ -17,7 +17,7 @@ News
 
 
 
-Markup : * Students
+ * Students
               * Vishal completed his internship at IBM Res. [Aug 2022]
               * Kausik Lakkaraju presented at student forum at AIES
                   * Sub-nested bullet etc
