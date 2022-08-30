@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-{% assign excerpts = "Github Users, Github Pages" | split: ", " %}
-{% assign headers = "Github Users, Github Pages" | split: ", " %}
+{% assign excerpts = "Github Users, Github Repositories" | split: ", " %}
+{% assign headers = "Github Users, Github Repositories" | split: ", " %}
 
 {% for excerpt in excerpts %}
 	{% assign isEmpty = true %}
