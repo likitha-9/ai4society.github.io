@@ -196,6 +196,9 @@ collections:
   repositories:
     output: true
     permalink: /:collection/:path/
+  demos:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -267,6 +270,15 @@ defaults:
   - scope:
       path: ""
       type: repositories
+    values:
+      layout: single
+      author_profile: true
+      share: true   
+    
+# _demos
+  - scope:
+      path: ""
+      type: demos
     values:
       layout: single
       author_profile: true

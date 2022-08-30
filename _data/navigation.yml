@@ -14,7 +14,7 @@ main:
     url: /Funding/
 
   - title: "Demos"
-    url: /Demos/
+    url: /demos/
  
   - title: "Repositories"
     url: /repositories/    
