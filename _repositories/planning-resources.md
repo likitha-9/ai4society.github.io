@@ -1,6 +1,6 @@
 ---
 name: "planning-resources"
-image: <img src='/images/tree.jpg' width="150px" style="float:left; margin:0px 10px 0px 0px;">
+image: <img src='/images/3.jpg' width="150px" style="float:left; margin:0px 10px 0px 0px;">
 website: "[Link to Repository](https://github.com/ai4society/planning-resources)"
 collection: repositories
 excerpt: Github Repositories
