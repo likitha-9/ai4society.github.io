@@ -15,8 +15,8 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2 style="margin: 2em 0 0.5em;">Title : {{ post.title }}</h2>
-    <p><b>Video : </b>{{ post.Video  | markdownify }} </p>
-    <p><b>PDF : </b>{{ post.PDF | markdownify }}</p>
-    <p><b>Bibtex : </b>{{ post.Bibtex }}</p>
+    <p><b>Video : </b>{{ post.Video  }} </p>
+    <p><b>PDF : </b>{{ post.PDF }}</p>
+    <p><b>Bibtex : </b>{{ post.Bibtex | markdownify }}</p>
   </article>
 </div>
