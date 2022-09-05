@@ -84,6 +84,7 @@ author:
   avatar           : "ai.png"
   bio              : "about ai4society"
   location         : "1112 Greene St, Columbia, SC 29208"
+  image            : "team.jpg"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -115,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  image            : "academicpages.github.io-master/images/team.jpg"
+ 
 
 # Reading Files
 include:
