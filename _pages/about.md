@@ -28,9 +28,9 @@ AI for Society (AI4S) group at the [AI Institute](https://aiisc.ai/) is focused 
     * [SCRA](https://www.scra.org/) (award)
     * [Tantiv4](https://www.tantiv4.com/) (award)
  * <span style="color:maroon">**Teaching:**</span>
-    * CSEC-771 [Computer Processing of Natural Languages in Fall 2022]
+    * [CSEC-771](https://sites.google.com/site/biplavsrivastava/teaching/csce-771-computer-processing-of-natural-language?authuser=0) [Computer Processing of Natural Languages in Fall 2022]
  * <span style="color:maroon">**Others**</span>
-    * VAJRA visit to IIT-Roorkee
+    * VAJRA visit to [IIT-Roorkee](https://www.iitr.ac.in/)
 
 
 
