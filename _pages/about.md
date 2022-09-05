@@ -24,9 +24,9 @@ AI for Society (AI4S) group at the [AI Institute](https://aiisc.ai/) is focused 
     * [Making Human-Like Moral Decisions](https://dl.acm.org/doi/10.1145/3514094.3534174)   
     * [https://sites.google.com/site/biplavsrivastava/papers](https://sites.google.com/site/biplavsrivastava/papers) 
  * <span style="color:maroon">**Funding:**</span>
-    * Cisco Research (gift)
-    * SCRA (award)
-    * Tantiv4 (award)
+    * [Cisco](http://www.cisco.com/) Research (gift)
+    * [SCRA](https://www.scra.org/) (award)
+    * [Tantiv4](https://www.tantiv4.com/) (award)
  * <span style="color:maroon">**Teaching:**</span>
     * CSEC-771 [Computer Processing of Natural Languages in Fall 2022]
  * <span style="color:maroon">**Others**</span>
