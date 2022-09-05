@@ -18,7 +18,7 @@ AI for Society (AI4S) group at the [AI Institute](https://aiisc.ai/) is focused 
 
 
  * <span style="color:blue">**Students**</span>
-    * [Vishal Pallagani]()  completed his internship at IBM Res. [Aug 2022]
+    * [Vishal Pallagani](https://www.linkedin.com/in/vishalpallagani/)  completed his internship at IBM Res. [Aug 2022]
     * [Kausik Lakkaraju](https://kausik-l.github.io/) presented at student forum at AIES
  * <span style="color:blue">**Publications**</span>
     * Making Human-Like Moral Decisions   
