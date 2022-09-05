@@ -21,7 +21,7 @@ AI for Society (AI4S) group at the [AI Institute](https://aiisc.ai/) is focused 
     * [Vishal Pallagani](https://www.linkedin.com/in/vishalpallagani/)  completed his internship at IBM Res. [Aug 2022]
     * [Kausik Lakkaraju](https://kausik-l.github.io/) presented at student forum at AIES
  * <span style="color:maroon">**Publications**</span>
-    * [Making Human-Like Moral Decisions] (https://dl.acm.org/doi/10.1145/3514094.3534174)   
+    * [Making Human-Like Moral Decisions](https://dl.acm.org/doi/10.1145/3514094.3534174)   
     * [https://sites.google.com/site/biplavsrivastava/papers](https://sites.google.com/site/biplavsrivastava/papers) 
  * <span style="color:maroon">**Funding:**</span>
     * Cisco Research (gift)
