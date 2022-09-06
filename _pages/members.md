@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Members"
+title: <span style="color:maroon">MEMBERS</span> 
 permalink: /members/
 author_profile: true
 ---
 
 
-{% assign excerpts = "Faculty, Ph.D. graduate student, Masters student, Undergraduate student, Intern, Indirect Study, External" | split: ", " %}
+{% assign excerpts = "<span style="color:maroon">Faculty</span>, Ph.D. graduate student, Masters student, Undergraduate student, Intern, Indirect Study, External" | split: ", " %}
 {% assign headers = "Faculty, Ph.D. students, Masters student, Undergraduate students, Interns, Affiliated / Independent Study, External" | split: ", " %}
 
 {% for excerpt in excerpts %}
