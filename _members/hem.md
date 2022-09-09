@@ -5,5 +5,5 @@ image: <img src='/images/hem.jpg' width="150px" style="float:left; margin:0px 10
 collection: members
 excerpt: External
 website: "[Home page](https://hem-chandra.github.io/)"
-description: "Research interests: AI fairness, Recommendation Systems, Large Language Models, Multimodal decision-support, and Algorithms."  
+description: "AI fairness, Recommendation Systems, Large Language Models, Multimodal decision-support, and Algorithms."  
 ---

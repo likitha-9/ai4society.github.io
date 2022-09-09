@@ -5,5 +5,5 @@ image: <img src='/images/bharath.jpg' width="150px" style="float:left; margin:0p
 collection: members
 excerpt: Ph.D. graduate student
 website: "[Home page](https://www.linkedin.com/in/bharath-9798)"
-description: "Research interests: Symbolic AI, Conversational Agents, Internet of Things ( IoT )."  
+description: "Symbolic AI, Conversational Agents, Internet of Things ( IoT )."  
 ---

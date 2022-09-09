@@ -5,5 +5,5 @@ image: <img src='/images/biplavsrivastava_255_50241025588_o.jpg' width="150px" s
 collection: members
 excerpt: Faculty
 website: "[Home page](https://sites.google.com/site/biplavsrivastava)"
-description: "Research Areas : Artificial Intelligence, Services, Smarter Cities ( Water, Health, Traffic )"  
+description: "Artificial Intelligence, Services, Smarter Cities ( Water, Health, Traffic )"  
 ---
