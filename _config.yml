@@ -82,8 +82,10 @@ analytics:
 author:
   name             : "ai4society"
   avatar           : "ai.png"
-  bio              : "about ai4society"
-  location         : "1112 Greene St, Columbia, SC 29208"
+  bio              : "We focus on innovating and applying AI techniques for hard problems
+                      facing the society with an inclusive, value-driven, focus."
+  location         : "1112 Greene St,
+                      Columbia, SC 29208"
   image            : "team.jpg"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
