@@ -1,9 +1,9 @@
 ---
-name: "Hem Chandra Joshi"
-email: hemjoshi745@gmail.com
+name: "Hem Chandra Joshi - Hem"
+email: hc_joshi@cs.iitr.ac.in
 image: <img src='/images/hem.jpg' width="150px" style="float:left; margin:0px 10px 0px 0px;">
 collection: members
 excerpt: External
-website: "[Home page](https://www.linkedin.com/in/hemchandraiitr/)"
-description: "Research interests: AI, Machine Learning, Computer Vision, Deep Learning."  
+website: "[Home page](https://hem-chandra.github.io/)"
+description: "Research interests: AI fairness, Recommendation Systems, Large Language Models, Multimodal decision-support, and Algorithms."  
 ---

@@ -1,6 +1,6 @@
 ---
-name: "Dr. Biplav Srivastava"
-email: biplavs@email.sc.edu
+name: "Dr. Biplav Srivastava - Biplav"
+email: BIPLAV.S@sc.edu
 image: <img src='/images/Biplav (1).jpg' width="150px" style="float:left; margin:0px 10px 0px 0px;">
 collection: members
 excerpt: Faculty
