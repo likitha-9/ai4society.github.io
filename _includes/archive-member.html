@@ -19,10 +19,10 @@
       <tr style="border: none;">
         <td style="border: none;" width="160 px">{{ post.image }}</td>
         <td style="border: none;">
-          Email: <a href='mailto:{{ post.email }}' style="color:#5DADE2">{{ post.email }} </a> <br />    
+          <font color="#5DADE2"><strong>Email: </strong></font> <a href='mailto:{{ post.email }}' style="color:#5DADE2">{{ post.email }} </a> <br />    
           <!--{{ post.excerpt }}<br /> -->
-          <font color="#5DADE2">{{ post.website | markdownify }}</font>
-          <p><font color="#5DADE2"><strong>Research Intrests : </strong></font>{{ post.description }}</p>
+          <font color="#5DADE2"><strong>{{ post.website | markdownify }}</strong></font>
+          <p><font color="#5DADE2"><strong>RESEARCH INTERESTS : </strong></font>{{ post.description }}</p>
         </td>
       </tr>
     </table>
