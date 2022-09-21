@@ -5,5 +5,5 @@ image: <img src='/images/sai_teja.jpg' width="150px" style="float:left; margin:0
 collection: members
 excerpt:  Masters student
 website: "[Home page](https://www.linkedin.com/in/sai-teja-paladi-52a062140/)"
-description: "Natural Language Processing, Computer Vision."  
+description: "NLP, Computer Vision."  
 ---
