@@ -18,6 +18,6 @@
     <p><font color= skyblue><b>Team : </b></font>{{ post.team | markdownify | remove: "<p>" | remove: "</p>"  }}</p>
     <p><font color= skyblue><b>Description : </b></font>{{ post.description }}</p>
     <p><font color= skyblue><b>Representative Publications : </b></font>{{ post.Relevant_Papers }}</p>
-    <p><font color= skyblue><b>More Details : </b></font>{{ post.more_details }}</p>
+    <p><font color= skyblue><b>More Details : </b></font>{{ post.more_details | markdownify }}</p>
   </article>
 </div>
