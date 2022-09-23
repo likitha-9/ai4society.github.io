@@ -1,5 +1,5 @@
 ---
-title: Rating of AI Systems Through a Causal Lens
+title: Rating of AI Systems
 team: "Dr. Biplav Srivastava, Dr. Marco Valtorta, Kausik Lakkaraju"
 description: "Artificial Intelligence (AI) systems like facial recognition systems and sentiment 
 analyzers are known to exhibit model uncertainty which can be perceived as 
