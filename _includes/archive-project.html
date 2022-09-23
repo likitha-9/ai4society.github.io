@@ -17,7 +17,7 @@
     <h2 style="margin: 2em 0 0.5em;"><font color= maroon> {{ post.title }}</font></h2>
     <p><font color= black><b>Team: </b></font>{{ post.team | markdownify | remove: "<p>" | remove: "</p>"  }}</p>
     <p><font color= black><b>Description: </b></font>{{ post.description }}</p>
-    <p><font color= black><b>Representative Publications: </b></font><font color= black>{{ post.Relevant_Papers | markupify }}</font></p>
-    <p><font color= black><b>More Details: </b></font><font color= black>{{ post.more_details | markupify }}</font></p>
+    <p><font color= black><b>Representative Publications: </b></font><font color= black>{{ post.Relevant_Papers | markdowify }}</font></p>
+    <p><font color= black><b>More Details: </b></font><font color= black>{{ post.more_details | markdownify }}</font></p>
   </article>
 </div>
