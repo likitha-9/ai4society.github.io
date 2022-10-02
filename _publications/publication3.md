@@ -8,4 +8,3 @@ Bibtex: "[BIBTEX]()"
 #date: 2022-01-01
 #venue: 'Journal 1'
 ---
-# Second Header
