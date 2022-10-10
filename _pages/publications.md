@@ -4,8 +4,8 @@ permalink: /
 title: <span style="color:maroon">**Publications**</span>
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /publications/
+  - /publications.html
 ---
 
 AI for Society (AI4S) group at the [AI Institute](https://aiisc.ai/) is focused on enabling people to make rational decisions despite real-world complexities of poor data, changing goals, and limited resources by augmenting their cognitive limitations with technology. Lead by [Prof. Biplav Srivastava](https://sites.google.com/site/biplavsrivastava), the group works in neuro-symbolic methods, trusted AI, and applications of data-driven methods to society.
