@@ -10,12 +10,14 @@ redirect_from:
 
 
 <p>&nbsp;</p>
+
 ### Publication 1
 
 - <span style>**A Dataset and Baseline Approach for Identifying Usage States from Non-Intrusive Power Sensing With MiDAS IoT-based Sensors**</span>
    - [Video](https://www.youtube.com/watch?v=-0aKDVoEGvs)
    - [PDF](https://dl.acm.org/doi/10.1145/3514094.3534174)
 <p>&nbsp;</p>
+
 ### Publication 2
 
 - <span style>**A Generic Dialog Agent for Information Retrieval Based on Automated Planning
@@ -23,6 +25,7 @@ Within a Reinforcement Learning Platform**</span>
    - [Video](https://www.youtube.com/watch?v=-0aKDVoEGvs)
    - [PDF](https://dl.acm.org/doi/10.1145/3514094.3534174)
 <p>&nbsp;</p>
+
 ### Publication 3
 
 - <span style>**PRUDENT* - A Generic Dialog Agent for Information Retrieval That Can
@@ -30,6 +33,7 @@ Flexibly Mix Automated Planning and Reinforcement Learning**</span>
    - [Video](https://www.youtube.com/watch?v=-0aKDVoEGvs)
    - [PDF](https://dl.acm.org/doi/10.1145/3514094.3534174)
 <p>&nbsp;</p>
+
 ### Publication 4
 
 - <span style>**Data-Based Insights for the Masses: Scaling Natural Language Querying to Middleware Data**</span>
