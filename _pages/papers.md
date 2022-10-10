@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-
+<p>&nbsp;</p>
 ### Publication 1
 - <span style>**A Dataset and Baseline Approach for Identifying Usage States from Non-Intrusive Power Sensing With MiDAS IoT-based Sensors**</span>
    - [Video](https://www.youtube.com/watch?v=-0aKDVoEGvs)
