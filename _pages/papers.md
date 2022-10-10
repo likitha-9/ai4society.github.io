@@ -8,7 +8,7 @@ redirect_from:
   - /papers.html
 ---
 
-[click on this link](#modifying-front-matter)
+
 
 
 - <span style>**A Dataset and Baseline Approach for Identifying Usage States from Non-Intrusive Power Sensing With MiDAS IoT-based Sensors**</span>
