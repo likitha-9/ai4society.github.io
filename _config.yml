@@ -183,6 +183,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  papers:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -263,6 +266,15 @@ defaults:
   - scope:
       path: ""
       type: members
+    values:
+      layout: single
+      author_profile: true
+      share: true 
+
+# _papers
+  - scope:
+      path: ""
+      type: papers
     values:
       layout: single
       author_profile: true
