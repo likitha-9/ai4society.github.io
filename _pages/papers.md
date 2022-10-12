@@ -24,7 +24,7 @@ Flexibly Mix Automated Planning and Reinforcement Learning - [[Video](https://ww
 
 
 ### <span style="color:maroon">**publication 4**</span>  
-- <span style>**Data-Based Insights for the Masses: Scaling Natural Language Querying to Middleware Data - [[Video](https://www.youtube.com/watch?v=-0aKDVoEGvs)] , [[PDF](https://dl.acm.org/doi/10.1145/3514094.3534174)]**</span>
+- <span style>**Data-Based Insights for the Masses: Scaling Natural Language Querying to Middleware Data - [[Video](https://www.youtube.com/watch?v=-0aKDVoEGvs)] , [[PDF](https://dl.acm.org/doi/abs/10.1007/978-3-031-00129-1_49)]**</span>
   
 
 
