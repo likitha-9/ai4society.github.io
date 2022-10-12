@@ -25,6 +25,18 @@ Flexibly Mix Automated Planning and Reinforcement Learning - [[Video](https://ww
 
 ### <span style="color:maroon">**publication 4**</span>  
 - <span style>**Data-Based Insights for the Masses: Scaling Natural Language Querying to Middleware Data - [[Video](https://www.youtube.com/watch?v=-0aKDVoEGvs)] , [[PDF](https://dl.acm.org/doi/abs/10.1007/978-3-031-00129-1_49)]**</span>
+
+
+### <span style="color:maroon">**publication 5**</span>  
+- <span style>**Combining Fast and Slow Thinking for Human-like and Efficient Decisions in Constrained Environments - [[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mPC6wp4AAAAJ&sortby=pubdate&citation_for_view=mPC6wp4AAAAJ:KNjnJ3z-R6IC)]**</span>
+
+
+### <span style="color:maroon">**publication 6**</span>  
+- <span style>**Thinking Fast and Slow in AI: the Role of Metacognition - [[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mPC6wp4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=mPC6wp4AAAAJ:CdxZDUztZiMC)]**</span>
+
+
+### <span style="color:maroon">**publication 7**</span>  
+- <span style>**Thinking fast and slow in AI - [[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mPC6wp4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=mPC6wp4AAAAJ:PaBasH6fAo0C)]**</span>
   
 
 
