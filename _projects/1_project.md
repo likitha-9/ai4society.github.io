@@ -1,6 +1,6 @@
 ---
 title: Rating of AI Systems
-team: "Dr. Biplav Srivastava, Dr. Marco Valtorta, Kausik Lakkaraju"
+team: "Kausik Lakkaraju, Biplav Srivastava, Marco Valtorta"
 description: "Artificial Intelligence (AI) systems like facial recognition systems and sentiment 
 analyzers are known to exhibit model uncertainty which can be perceived as 
 algorithmic bias in most cases (esp. in the presence of protected attributes like 
