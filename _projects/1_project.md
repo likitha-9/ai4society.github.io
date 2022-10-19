@@ -8,7 +8,7 @@ gender and race). This line of work aims to examine and, if possible, mitigate t
 bias in AI systems by establishing causal relationships. Based on this, we would 
 assign a rating to the AI system, which helps the user make an informed selection 
 when choosing different systems for their application."    
-Relevant_Papers: "[paper-1](https://ai4society.github.io/Papers/#7.), [paper-2](https://ai4society.github.io/Papers/#8.)"
+Relevant_Papers: "[paper-1](https://ai4society.github.io/Papers/#7), [paper-2](https://ai4society.github.io/Papers/#8)"
 ---
 
 
