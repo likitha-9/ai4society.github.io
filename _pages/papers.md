@@ -21,22 +21,23 @@ redirect_from:
 
 
 
-### <span style="color:black">4</span><br/>. <span style>Combining Fast and Slow Thinking for Human-like and Efficient Decisions in Constrained Environments - [[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mPC6wp4AAAAJ&sortby=pubdate&citation_for_view=mPC6wp4AAAAJ:KNjnJ3z-R6IC)]</span>
+### <span style="color:black">4</span>  
+. <span style>Combining Fast and Slow Thinking for Human-like and Efficient Decisions in Constrained Environments - [[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mPC6wp4AAAAJ&sortby=pubdate&citation_for_view=mPC6wp4AAAAJ:KNjnJ3z-R6IC)]</span>
 
 
-### <span style="color:black">5</span>
+### <span style="color:black">5</span>  
 . <span style>Thinking Fast and Slow in AI: the Role of Metacognition - [[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mPC6wp4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=mPC6wp4AAAAJ:CdxZDUztZiMC)]</span>
 
 
-### <span style="color:black">6</span>
+### <span style="color:black">6</span>  
 . <span style>Thinking fast and slow in AI - [[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mPC6wp4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=mPC6wp4AAAAJ:PaBasH6fAo0C)]</span>
   
 
-### <span style="color:black">7</span>
+### <span style="color:black">7</span>  
 . <span style>Why is my System Biased?: Rating of AI Systems through a Causal Lens - [[PDF](https://dl.acm.org/doi/10.1145/3514094.3539556)]</span>
 
 
-### <span style="color:black">8</span>
+### <span style="color:black">8</span>  
 . <span style>Rating AI systems for bias to promote trustable applications - [[PDF](https://ieeexplore.ieee.org/abstract/document/8809756)]</span>
 
 
