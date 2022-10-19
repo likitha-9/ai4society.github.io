@@ -21,7 +21,7 @@ redirect_from:
 
 
 
-### <span style="color:black">4</span><br><sup>. <span style>Combining Fast and Slow Thinking for Human-like and Efficient Decisions in Constrained Environments - [[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mPC6wp4AAAAJ&sortby=pubdate&citation_for_view=mPC6wp4AAAAJ:KNjnJ3z-R6IC)]</span></sup>
+### <span style="color:black">4</span><sup>. <span style>Combining Fast and Slow Thinking for Human-like and Efficient Decisions in Constrained Environments - [[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mPC6wp4AAAAJ&sortby=pubdate&citation_for_view=mPC6wp4AAAAJ:KNjnJ3z-R6IC)]</span></sup>
 
 
 ### <span style="color:black">5</span>
