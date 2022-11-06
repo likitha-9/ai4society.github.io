@@ -1,5 +1,6 @@
 ---
 name: "Shuge Lei - Shuge"
+theme: "Trusted AI"
 email: SLEI@email.sc.edu
 image: <img src='/images/shuge.jpg' width="150px" style="float:left; margin:0px 10px 0px 0px;">
 collection: members
