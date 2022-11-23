@@ -42,13 +42,13 @@ redirect_from:
 
 
 ### <span style="color:black">2022-9</span>  
-<span style>Power Forecasting and Anomaly Detection with MIDAS IoT-based Sensor - [[PDF](https://ieeexplore.ieee.org/abstract/document/8809756)]</span>
+<span style>Power Forecasting and Anomaly Detection with MIDAS IoT-based Sensor]</span>
 
 ### <span style="color:black">2022-10</span>  
-<span style>Data-based Insights for the Masses: Scaling Natural Language Querying to Middleware Data - [[PDF](https://ieeexplore.ieee.org/abstract/document/8809756)]</span>
+<span style>Data-based Insights for the Masses: Scaling Natural Language Querying to Middleware Data -  [[Video](https://vimeo.com/651270271)]</span>
 
 ### <span style="color:black">2023-11</span>  
-<span style>A Dataset and Baseline Approach for Identifying Usage States from Non-Intrusive Power Sensing With MiDAS IoT-based Sensors - [[PDF](https://ieeexplore.ieee.org/abstract/document/8809756)]</span>
+<span style>A Dataset and Baseline Approach for Identifying Usage States from Non-Intrusive Power Sensing With MiDAS IoT-based Sensors - [[PDF](https://arxiv.org/abs/2209.00987)]</span>
 
 
 
