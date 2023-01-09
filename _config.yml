@@ -186,6 +186,9 @@ collections:
   papers:
     output: true
     permalink: /:collection/:path/
+  funding:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -275,6 +278,15 @@ defaults:
   - scope:
       path: ""
       type: papers
+    values:
+      layout: single
+      author_profile: true
+      share: true 
+
+# _funding
+  - scope:
+      path: ""
+      type: funding
     values:
       layout: single
       author_profile: true
