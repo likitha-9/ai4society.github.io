@@ -12,7 +12,7 @@ redirect_from:
 
 * <span style="color:maroon">**University of South Carolina**</span> - 2021, $50K, team recommendation
 
-* <span style="color:maroon">**SCRA**</span> - $15K, 2022, team recommendation**</span>
+* <span style="color:maroon">**SCRA**</span> - $15K, 2022, team recommendation
 
 * <span style="color:maroon">**Govt of India**</span> - $35K, 2021-2023, rating AI and Indian perspective
 
