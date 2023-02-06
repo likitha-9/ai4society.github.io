@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### <span style="color:black">2023-1</span>
-<span style>Bharath Muppasani, Cheyyur Jaya Anand, Chinmayi Appajigowda, Biplav Srivastava, Lokesh Johri, A Dataset and Baseline Approach for Identifying Usage States from Non-Intrusive Power Sensing With MiDAS IoT-based Sensors, Proc. Thirty-Fifth Annual Conference on Innovative Applications of Artificial Intelligence (AAAI/IAAI-23), Preprint on Arxiv at: [https://arxiv.org/abs/2209.00987](https://arxiv.org/abs/2209.00987), 2023 [Power data, machine learning] - [[Video](https://www.youtube.com/watch?v=-0aKDVoEGvs)] , [[PDF](https://dl.acm.org/doi/10.1145/3514094.3534174)]</span>  
+<span style>Bharath Muppasani, Cheyyur Jaya Anand, Chinmayi Appajigowda, Biplav Srivastava, Lokesh Johri, A Dataset and Baseline Approach for Identifying Usage States from Non-Intrusive Power Sensing With MiDAS IoT-based Sensors, Proc. Thirty-Fifth Annual Conference on Innovative Applications of Artificial Intelligence (AAAI/IAAI-23), Preprint on Arxiv at: [https://arxiv.org/abs/2209.00987](https://arxiv.org/abs/2209.00987), 2023 [Power data, machine learning] - [[PDF](https://arxiv.org/pdf/2209.00987.pdf)]</span>  
 
 
 
@@ -17,7 +17,7 @@ redirect_from:
 <span style>Bharath Muppasani, Vishal Pallagani, Kausik Lakkaraju, Shuge Lei, Biplav Srivastava, Brett 
 Robertson, Andrea Hickerson, Vignesh Narayanan, On Safe and Usable Chatbots for Promoting 
 Voter Participation, AAAI 2023 Workshop on AI for Credible Elections, On Arxiv at: 
-[https://arxiv.org/abs/2212.11219](https://arxiv.org/abs/2212.11219) [Chatbot, Voter Engagement]</span> 
+[https://arxiv.org/abs/2212.11219](https://arxiv.org/abs/2212.11219) [Chatbot, Voter Engagement] - [[PDF](https://arxiv.org/pdf/2212.11219.pdf)]</span> 
 
 
 ### <span style="color:black">2023-3</span>
