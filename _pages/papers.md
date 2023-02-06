@@ -11,6 +11,22 @@ redirect_from:
 ### <span style="color:black">2023-1</span>
 <span style>Bharath Muppasani, Cheyyur Jaya Anand, Chinmayi Appajigowda, Biplav Srivastava, Lokesh Johri, A Dataset and Baseline Approach for Identifying Usage States from Non-Intrusive Power Sensing With MiDAS IoT-based Sensors, Proc. Thirty-Fifth Annual Conference on Innovative Applications of Artificial Intelligence (AAAI/IAAI-23), Preprint on Arxiv at: [https://arxiv.org/abs/2209.00987](https://arxiv.org/abs/2209.00987), 2023 [Power data, machine learning] - [[Video](https://www.youtube.com/watch?v=-0aKDVoEGvs)] , [[PDF](https://dl.acm.org/doi/10.1145/3514094.3534174)]</span>  
 
+
+
+### <span style="color:black">2023-2</span>
+<span style>Bharath Muppasani, Vishal Pallagani, Kausik Lakkaraju, Shuge Lei, Biplav Srivastava, Brett 
+Robertson, Andrea Hickerson, Vignesh Narayanan, On Safe and Usable Chatbots for Promoting 
+Voter Participation, AAAI 2023 Workshop on AI for Credible Elections, On Arxiv at: 
+[https://arxiv.org/abs/2212.11219](https://arxiv.org/abs/2212.11219) [Chatbot, Voter Engagement]</span> 
+
+
+### <span style="color:black">2023-3</span>
+<span style>Biplav Srivastava, Kausik Lakkaraju, Mariana Bernagozzi, Marco Valtorta, Advances in 
+Automatically Rating the Trustworthiness of Text Processing Services, AAAI Spring Symposium,
+San Francisco, 2023 [AI Rating, Trust]</span> 
+
+
+
 ### <span style="color:black">2022-1</span>
 <span style> Kausik Lakkaraju, Vinamra Palaiyya, Sai Teja Paladi, Chinmayi Appajigowda, Biplav Srivastava, Lokesh Johri, Data-based Insights for the Masses: Scaling Natural Language Querying to 
 Middleware Data", DASFAA-2022, (April 2022) [IoT - power and router usage] - [[Video](https://vimeo.com/651270271)] , [[PDF](https://dl.acm.org/doi/abs/10.1007/978-3-031-00129-1_49)]</span>
