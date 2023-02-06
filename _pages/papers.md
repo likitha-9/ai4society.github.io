@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### <span style="color:black">2023-1</span>
-<span style>Bharath Muppasani, Cheyyur Jaya Anand, Chinmayi Appajigowda, Biplav Srivastava, Lokesh Johri, A Dataset and Baseline Approach for Identifying Usage States from Non-Intrusive Power Sensing With MiDAS IoT-based Sensors, Proc. Thirty-Fifth Annual Conference on Innovative Applications of Artificial Intelligence (AAAI/IAAI-23), Preprint on Arxiv at: (https://arxiv.org/abs/2209.00987), 2023 [Power data, machine learning] - [[Video](https://www.youtube.com/watch?v=-0aKDVoEGvs)] , [[PDF](https://dl.acm.org/doi/10.1145/3514094.3534174)]</span>  
+<span style>Bharath Muppasani, Cheyyur Jaya Anand, Chinmayi Appajigowda, Biplav Srivastava, Lokesh Johri, A Dataset and Baseline Approach for Identifying Usage States from Non-Intrusive Power Sensing With MiDAS IoT-based Sensors, Proc. Thirty-Fifth Annual Conference on Innovative Applications of Artificial Intelligence (AAAI/IAAI-23), Preprint on Arxiv at: [https://arxiv.org/abs/2209.00987](https://arxiv.org/abs/2209.00987), 2023 [Power data, machine learning] - [[Video](https://www.youtube.com/watch?v=-0aKDVoEGvs)] , [[PDF](https://dl.acm.org/doi/10.1145/3514094.3534174)]</span>  
 
 ### <span style="color:black">2022-1</span>
 <span style> Data-Based Insights for the Masses: Scaling Natural Language Querying to Middleware Data - [[Video](https://www.youtube.com/watch?v=-0aKDVoEGvs)] , [[PDF](https://dl.acm.org/doi/abs/10.1007/978-3-031-00129-1_49)]</span>
