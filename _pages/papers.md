@@ -42,7 +42,7 @@ Middleware Data", DASFAA-2022, (April 2022) [IoT - power and router usage] - [[V
 
 
 ### <span style="color:black">2022-3</span>  
-<span style>Why is my System Biased?: Rating of AI Systems through a Causal Lens - [[PDF](https://dl.acm.org/doi/10.1145/3514094.3539556)]</span>
+<span style>Why is my System Biased?: Rating of AI Systems through a Causal Lens, AIES 2022 [Student Abstract] - [[PDF](https://dl.acm.org/doi/10.1145/3514094.3539556)]</span>
 
 
 
@@ -67,9 +67,7 @@ Thinking Fast and Slow in AI: the Role of Metacognition, ACAIN 2022, Preprint on
 
 
 ### <span style="color:black">2021-3</span>  
-<span style>Thinking fast and slow in AI - [[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mPC6wp4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=mPC6wp4AAAAJ:PaBasH6fAo0C)]</span>
-  
-
+<span style>Grady Booch, Francesco Fabiano, Lior Horesh, Kiran Kate, Jon Lenchner, Nick Linck, Andrea Loreggia, Keerthiram Murugesan, Nicholas Mattei, Francesca Rossi, Biplav Srivastava, Thinking Fast and Slow in AI, AAAI 2021. Preprint on Arxiv at: [https://arxiv.org/abs/2010.06002](https://arxiv.org/abs/2010.06002) [Neuro-Symbolic AI] - [[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mPC6wp4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=mPC6wp4AAAAJ:PaBasH6fAo0C)]</span>
 
 
 ### <span style="color:black">2019-1</span>  
