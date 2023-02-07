@@ -7,5 +7,5 @@ author_profile: true
 
 {% include base_path %}
 {% for post in site.papers1 reversed %}
-   	{% include archive-papers1.html %}  
+   	{% include archive-paper.html %}  
 {% endfor %}
