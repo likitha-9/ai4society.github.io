@@ -201,6 +201,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  papers1:
+    output: true
+    permalink: /:collection/:path/
   repositories:
     output: true
     permalink: /:collection/:path/
@@ -314,6 +317,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true      
+
+      # _papers1
+  - scope:
+      path: ""
+      type: papers1
     values:
       layout: single
       author_profile: true
