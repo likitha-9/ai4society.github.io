@@ -127,4 +127,11 @@
     	<img src="{{ author.image | prepend: "/images/" | prepend: base_path }}" class="author__image" alt="{{ author.name }}">
     {% endif %}
   </div>
+  <div class="author__image_1">
+    {% if author.image_1 contains "://" %}
+    	<img src="{{ author.image_2 }}" alt="{{ author.name }}">
+    {% else %}
+    	<img src="{{ author.image_2 | prepend: "/images/" | prepend: base_path }}" class="author__image_1" alt="{{ author.name }}">
+    {% endif %}
+  </div>
 </div>
