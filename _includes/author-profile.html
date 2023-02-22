@@ -120,6 +120,7 @@
 {% endif %}
     </ul>
   </div>
+  <p>May 2022</p>
   <div class="author__image">
     {% if author.image contains "://" %}
     	<img src="{{ author.image }}" alt="{{ author.name }}">
@@ -127,6 +128,8 @@
     	<img src="{{ author.image | prepend: "/images/" | prepend: base_path }}" class="author__image" alt="{{ author.name }}">
     {% endif %}
   </div>
+  <br>
+  <p>Feb 2023</p>
   <div class="author__image_1">
     {% if author.image_1 contains "://" %}
     	<img src="{{ author.image_2 }}" alt="{{ author.name }}">
