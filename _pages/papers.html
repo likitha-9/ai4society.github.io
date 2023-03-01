@@ -12,7 +12,10 @@ author_profile: true
   <head>
     <meta charset="utf-8">
     <title>Publications List</title>
-
+<style>a {
+  text-decoration: none;
+  color: black;
+}</style>
   </head>
   
   
@@ -66,7 +69,7 @@ author_profile: true
     
     <script>
       function filterPublications() {
-        var input, filter, ul, li, a, i;
+        var input, filter, ul, li, a, h3, span, i;
         input = document.getElementById('search');
         filter = input.value.toUpperCase();
         ul = document.getElementById("publications");
