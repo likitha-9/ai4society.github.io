@@ -16,8 +16,8 @@ main:
   - title: "Demos"
     url: /demos/
 
-  # - title: "Papersnew"
-  #   url: /papersnew/
+  - title: "Test"
+    url: /test/
  
   - title: "Repositories"
     url: /repositories/    
