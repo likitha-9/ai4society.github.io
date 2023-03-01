@@ -23,7 +23,7 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i><a href="https://www.google.com/maps/dir/33.9945954,-81.0320225/aiisc/@33.9950302,-81.0344177,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x88f8bb336cf288a3:0x20e0315b3133bf1d!2m2!1d-81.0319499!2d33.9946829">{{ author.location }}</a></li>
+        <li><a href="https://www.google.com/maps/dir/33.9945954,-81.0320225/aiisc/@33.9950302,-81.0344177,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x88f8bb336cf288a3:0x20e0315b3133bf1d!2m2!1d-81.0319499!2d33.9946829"></a><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>{{ author.location }}</a></li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
