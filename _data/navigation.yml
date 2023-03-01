@@ -8,8 +8,8 @@ main:
     url: /projects/
 
     
-# - title: "Papersnew"
-#     url: /papersnew/
+-   title: "Papersnew"
+    url: /papersnew/
 
   - title: "Papers"
     url: /papers/
