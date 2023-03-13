@@ -62,11 +62,11 @@ redirect_from:
   * IBM Research: [2020-]
       - Memorandum of understanding (MOU), 2022 
       - Topics: Collaborative Assistants, Fast and Slow AI, Planning, AI Ethics
-    * University of South Florida: [2021-]
+  * University of South Florida: [2021-]
       - Water data and AI driven informatics for public engagement, 2022
-    * Oklahoma State University, [2021-]
+  * Oklahoma State University, [2021-]
       - Multimodal reasoning
-    * Cisco Research:  [2022-]
+  * Cisco Research:  [2022-]
       - AI trust, security
-    * Indian Institutions (IIT Roorkee, IIT BHU, ...)
+  * Indian Institutions (IIT Roorkee, IIT BHU, ...)
       - AI Ethics, Smart City, Power, Food 
