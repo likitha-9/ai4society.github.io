@@ -27,18 +27,18 @@ redirect_from:
 
 * University of South Carolina (ASPIRE-II), $98,535, 2021-2022, Collaborative Artificial Intelligence 
        for Learning to Solve the Rubik's Cube, Team: Matt Irvin (PI), Forest Agostinelli. Biplav Srivastava, 
-       Dezhi Wu, Hengtao Tang, Amit Sheth (Consultant) [<span style="color:yellow">Chatbots</span>, <span style="color:brown">Games</span>, Trust]
+       Dezhi Wu, Hengtao Tang, Amit Sheth (Consultant) [<span style="color:yellow">Chatbots</span>, <span style="color:brown">Games</span>, <span style="color:lime">Trust</span>]
 * University of South Carolina (Racial Justice), $14,636, February 1, 2022 - April 30, 2023,    
        Intersectionality between race, gender, and computer science stereotypes influencing racially
        minoritized high schoolers' intentions to pursue computer science major, Team: Lima de Vasconcelos (PI),
-       Fatih Ari,  Biplav Srivastava  [<span style="color:green">AI</span>, Stereotypes, Racial Issues]
+       Fatih Ari,  Biplav Srivastava  [<span style="color:green">AI</span>, <span style="color:Cyan">Stereotypes</span>, <span style="color:Wheat">Racial Issues</span>]
 * University of South Carolina (Racial Justice), 14,978, February 1, 2022 - April 30, 2023,  
        Understanding racial justice with data visualizations: Fostering underrepresented minority 
        secondary school students' critical data literacy, Team: Hengtao Tang (PI), Forest Agostinelli, 
-       Biplav Srivatava [<span style="color:green">AI</span>, Visualization, Racial Issues]
+       Biplav Srivatava [<span style="color:green">AI</span>, <span style="color:Salmon">Visualization</span>, <span style="color:Wheat">Racial Issues</span>]
 * DoD/ARLIS INSURE, Information Competition Simulator, $99,880; May 2022 - Apr 2023, 
-       Vignesh Narayanan (PI), Michael N. Huhns, Biplav Srivastava (Consultant) [Information Spread, 
-       AI Security]
+       Vignesh Narayanan (PI), Michael N. Huhns, Biplav Srivastava (Consultant) [<span style="color:Olive">Information Spread</span>, 
+       <span style="color:Aqua">AI Security</span>]
 
 <span style="color:black">**Select Collaborations:**</span>
 ======
@@ -51,6 +51,6 @@ redirect_from:
   * Oklahoma State University, [2021-]
       - Multimodal reasoning
   * Cisco Research:  [2022-]
-      - AI trust, security
+      - <span style="color:lime">AI trust</span>, security
   * Indian Institutions (IIT Roorkee, IIT BHU, ...)
-      - <span style="color:violet">AI Ethics</span>, Smart City, <span style="color:blue">Power</span>, <span style="color:pink">Food</span> 
+      - <span style="color:violet">AI Ethics</span>, <span style="color:teal">Smart City</span>, <span style="color:blue">Power</span>, <span style="color:pink">Food</span> 
