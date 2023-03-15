@@ -11,7 +11,7 @@ redirect_from:
 <span style="color:black">**As Lead/  PI**</span>
 ======
 
-* Tantiv4, $112K, 2021-2022, AI for power management and middleware, conversation systems [<span style="color:green">AI</span>, <span style="color:blue">Power</span>, <span style="color:pumpkin">Chatbots</span>]
+* Tantiv4, $112K, 2021-2022, AI for power management and middleware, conversation systems [<span style="color:green">AI</span>, <span style="color:blue">Power</span>, <span style="color:skyblue">Chatbots</span>]
 
 * University of South Carolina, $50K, 2021-2024, AI-driven team recommendation [<span style="color:green">AI</span>,<span style="color:orange">Teaming</span>]
 
@@ -27,7 +27,7 @@ redirect_from:
 
 * University of South Carolina (ASPIRE-II), $98,535, 2021-2022, Collaborative Artificial Intelligence 
        for Learning to Solve the Rubik's Cube, Team: Matt Irvin (PI), Forest Agostinelli. Biplav Srivastava, 
-       Dezhi Wu, Hengtao Tang, Amit Sheth (Consultant) [<span style="color:pumpkin">Chatbots</span>, <span style="color:brown">Games</span>, <span style="color:lime">Trust</span>]
+       Dezhi Wu, Hengtao Tang, Amit Sheth (Consultant) [<span style="color:skyblue">Chatbots</span>, <span style="color:brown">Games</span>, <span style="color:lime">Trust</span>]
 * University of South Carolina (Racial Justice), $14,636, February 1, 2022 - April 30, 2023,    
        Intersectionality between race, gender, and computer science stereotypes influencing racially
        minoritized high schoolers' intentions to pursue computer science major, Team: Lima de Vasconcelos (PI),
