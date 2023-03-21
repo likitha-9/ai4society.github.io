@@ -1,5 +1,5 @@
 ---
-title: [Planning Using Fast and Slow AI Architecture](https://ai4society.github.io/generalized_planning)  
+title: Planning Using Fast and Slow AI Architecture
 
 team: "University of South Carolina, IBM Research, University of Udine, University of Brescia"
 description: "The newly introduced idea of Fast and Slow AI (SOFAI) architecture is inspired from the cognitive theories mentioned by Daniel Kahneman in Thinking Fast and Slow. This research project aims to build AI-supported machines that can 1) make decisions with emergent behaviors similar to the human ones and 2) support human decision making through nudging and explanations. To achieve these goals, the team is designing and building a cognitive architecture to mimic these two broad modalities in a machine.
