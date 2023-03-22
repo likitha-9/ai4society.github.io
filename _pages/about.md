@@ -32,6 +32,17 @@ AI for Society (AI4S) group at the [AI Institute](https://aiisc.ai/) is focused 
     * [CSEC-771](https://sites.google.com/site/biplavsrivastava/teaching/csce-771-computer-processing-of-natural-language?authuser=0) [Computer Processing of Natural Languages in Fall 2022]
     * VAJRA visit to [IIT-Roorkee](https://www.iitr.ac.in/)
  
+ * <span style="color:maroon">**Conference**</span>
+   * Collaborative Assistants for Society (CASY) workshops at the AI Institute:  A series of hybrid physical/virtual free-to-attend conferences intended to promote the ethical usage of digital assistants in society for daily life activities. 
+
+   * First physical/virtual conference on Collaborative assistants for the society, 16 Oct 2020, (CASY 2020). Had 140 registered participants from around the world [Video, Local coverage]. 
+
+   * Second academic year
+
+      * [March 2022, CASY2  phase 2 chatbot workshop, 60 registered]  CASY 2.2 - Building Momentum for Collaborative Assistants for Society
+
+      * [October 2021, CASY2  phase 1 chatbot workshop, 60 registered]  CASY 2 - A Practical Way to Look at Collaborative Assistants for Society
+
 
 
 
