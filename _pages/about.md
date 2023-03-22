@@ -33,15 +33,15 @@ AI for Society (AI4S) group at the [AI Institute](https://aiisc.ai/) is focused 
     * VAJRA visit to [IIT-Roorkee](https://www.iitr.ac.in/)
  
  * <span style="color:maroon">**Conference**</span>
-   * Collaborative Assistants for Society (CASY) workshops at the AI Institute:  A series of hybrid physical/virtual free-to-attend conferences intended to promote the ethical usage of digital assistants in society for daily life activities. 
+   * [Collaborative Assistants for Society (CASY) workshops at the AI Institute](https://casy.aiisc.ai/):  A series of hybrid physical/virtual free-to-attend conferences intended to promote the ethical usage of digital assistants in society for daily life activities. 
 
-   * First physical/virtual conference on Collaborative assistants for the society, 16 Oct 2020, (CASY 2020). Had 140 registered participants from around the world [Video, Local coverage]. 
+   * First physical/virtual conference on Collaborative assistants for the society, 16 Oct 2020, (CASY 2020). Had 140 registered participants from around the world [ [Video](https://www.youtube.com/watch?v=tPkdZ1h2aSQ&feature=youtu.be), [Local coverage](https://www.sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2020/casy2020.php) ]. 
 
    * Second academic year
 
-      * [March 2022, CASY2  phase 2 chatbot workshop, 60 registered]  CASY 2.2 - Building Momentum for Collaborative Assistants for Society
+      * [March 2022, CASY2  phase 2 chatbot workshop, 60 registered]  [CASY 2.2 - Building Momentum for Collaborative Assistants for Society](https://www.linkedin.com/pulse/casy-22-building-momentum-collaborative-assistants-srivastava/)
 
-      * [October 2021, CASY2  phase 1 chatbot workshop, 60 registered]  CASY 2 - A Practical Way to Look at Collaborative Assistants for Society
+      * [October 2021, CASY2  phase 1 chatbot workshop, 60 registered]  [CASY 2 - A Practical Way to Look at Collaborative Assistants for Society](https://www.linkedin.com/pulse/casy-2-practical-way-look-collaborative-assistants-srivastava/)
 
 
 
