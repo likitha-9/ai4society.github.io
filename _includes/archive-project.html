@@ -14,7 +14,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2 style="margin: 2em 0 0.5em;"><font color= maroon><u>{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</u></font></h2>
+    <h2 style="margin: 2em 0 0.5em;"><span style="color: maroon; text-decoration: none;">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</font></h2>
     <font color= black><b>Team: </b></font>{{ post.team | markdownify | remove: "<p>" | remove: "</p>"  }}<br>
     <font color= black><b>Description: </b></font>{{ post.description }}<br>
     <font color= black><b>Representative Publications: </b></font><font color= black>{{ post.Relevant_Papers | markdownify | remove: '<p>' | remove: '</p>'  }}</font><br>
