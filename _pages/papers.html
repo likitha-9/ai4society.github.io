@@ -5,8 +5,6 @@ permalink: /papers/
 author_profile: true
 ---
 
-
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -66,6 +64,21 @@ Thinking Fast and Slow in AI: the Role of Metacognition, ACAIN 2022, Preprint on
         var input, filter, ul, li, a, i;
         input = document.getElementById('search');
         filter = input.value.toUpperCase();
+        ul = document.getElementById("publications");
+        li = ul.getElementsByTagName('li');
+        for (i = 0; i < li.length; i++) {
+          a = li[i].getElementsByTagName("a")[0];
+          if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+          } else {
+            li[i].style.display = "none";
+          }
+        }
+      }
+      function filterPublicationsbyyear(input_year) {
+        var input, filter, ul, li, a, i;
+        // input = document.getElementById('search');
+        filter = input_year.value.toUpperCase();
         ul = document.getElementById("publications");
         li = ul.getElementsByTagName('li');
         for (i = 0; i < li.length; i++) {
