@@ -2,7 +2,7 @@
 title: "[Insights with Power Data](https://ai4society.github.io/power_page/)"
 team: "Bharath Muppasani, Cheyyur Jaya Anand, Chinmayi Appajigowda, Lokesh Johri, Biplav Srivastava"
 description: "The project aims to identify power usage patterns of any system, like buildings or factories, of interest using the harmonics data obtained from MiDAS IoT sensor. We also make power usage dataset (electricity consumption data and harmonics data) available from 8 institutions in manufacturing, education and medical institutions from the US and India "  
-Relevant_Papers: "<a href="javascript:filterPublicationsbyyear('2021-1')">2021-1</a>, [2022-2](../papers#2021-2)"
+Relevant_Papers: "[2021-1](../papers#2021-1), [2022-2](../papers#2021-2)"
 more_details: "[here](https://sites.google.com/site/biplavsrivastava/research-1/fast-slow-planning)"
 ---
 
