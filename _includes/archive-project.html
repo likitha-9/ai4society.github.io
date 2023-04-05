@@ -18,6 +18,8 @@
     <font color="black"><b>Team: </b></font>{{ post.team | markdownify | remove: "<p>" | remove: "</p>"  }}<br>
     <font color="black"><b>Description: </b></font>{{ post.description }}<br>
     <font color="black"><b>Representative Publications: </b></font><font color="black">{{ post.Relevant_Papers | markdownify | remove: '<p>' | remove: '</p>'  }}</font><br>
+    {% if post.more_details %}
     <font color="black"><b>More Details: </b></font><font color="black">{{ post.more_details | markdownify | remove: '<p>' | remove: '</p>'  }}</font>
+    {% endif %}
   </article>
 </div>
