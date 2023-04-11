@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <span style="color:maroon">MEMBERS</span> 
+title: <span style="color:maroon">Members</span> 
 permalink: /members/
 author_profile: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Repositories"
+title: <span style="color:maroon">Repositories</span>
 permalink: /repositories/
 author_profile: true
 ---
