@@ -1,5 +1,5 @@
 ---
-title: Rating of AI Systems  
+title: "[Rating of AI Systems](https://ai4society.github.io/rating_page/)" 
 team: "Kausik Lakkaraju, Biplav Srivastava, Marco Valtorta"  
 description: "Artificial Intelligence (AI) systems like facial recognition systems and sentiment 
 analyzers are known to exhibit model uncertainty which can be perceived as 
